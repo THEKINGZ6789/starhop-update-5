@@ -1,0 +1,20 @@
+{
+	"schemaVersion": 1,
+	"id": "starhop",
+	"version": "${version}",
+	"name": "Starhop",
+	"description": "Galaxy-style platforming for Minecraft: triple jumps, a mid-air spin, and Comet Shards.",
+	"authors": ["You"],
+	"license": "MIT",
+	"environment": "*",
+	"entrypoints": {
+		"main": ["dev.starhop.Starhop"],
+		"client": ["dev.starhop.client.StarhopClient"]
+	},
+	"depends": {
+		"fabricloader": ">=0.19.5",
+		"minecraft": "~26.3",
+		"java": ">=25",
+		"fabric-api": "*"
+	}
+}

@@ -1,0 +1,12 @@
+{
+	"jump_double": { "sounds": ["starhop:jump_double"] },
+	"jump_triple": { "sounds": ["starhop:jump_triple"] },
+	"long_jump": { "sounds": ["starhop:long_jump"] },
+	"backflip": { "sounds": ["starhop:backflip"] },
+	"wall_jump": { "sounds": ["starhop:wall_jump"] },
+	"spin": { "sounds": ["starhop:spin"] },
+	"pound_start": { "sounds": ["starhop:pound_start"] },
+	"pound_hit": { "sounds": ["starhop:pound_hit"] },
+	"stomp": { "sounds": ["starhop:stomp"] },
+	"star_power": { "sounds": ["starhop:star_power"] }
+}
